@@ -69,18 +69,18 @@ If the installation is successful, you should see the message All systems ready.
 ## Step 6: Default Credentials
 Use the following default login credentials to access the CALDERA interface:
 
-- Red Team
+### Red Team
 
-Username: red
-Password: admin
+- Username: red
+- Password: admin
 
-- Blue Team
-Username: blue
-Password: admin
+### Blue Team
+- Username: blue
+- Password: admin
 
-- Admin
-Username: admin
-Password: admin
+### Admin
+- Username: admin
+- Password: admin
 
 
 ## Additional Notes
@@ -89,6 +89,6 @@ Password: admin
 - You can explore different plugins and features in CALDERA to run advanced attack scenarios or defensive simulations.
 For more information, please refer to MITRE CALDERA documentation: https://caldera.readthedocs.io.
 
-Thank you for following this guide! If you encounter any issues or have suggestions, feel free to reach out.
+### Thank you for following this guide! If you encounter any issues or have suggestions, feel free to reach out.
 
 This `README.md` file provides a clear step-by-step guide on installing CALDERA, explains what it is, and includes additional instructions on running and accessing the web interface. Let me know if you need further customization or details!
