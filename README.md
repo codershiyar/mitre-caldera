@@ -41,11 +41,10 @@ source ~/.profile
 ##  Step 4: Install CALDERA
 Clone the CALDERA repository and install the required Python packages:
 ```bash
-https://github.com/codershiyar/mitre-caldera 
+git clone https://github.com/mitre/caldera.git --recursive --branch 4.1.0
 cd caldera
 pip3 install -r requirements.txt
 ``` 
-<!-- in case my version did not worked use this: git clone https://github.com/mitre/caldera.git --recursive --branch 4.1.0 -->
 
 If you encounter an error related to myst-parser, install it manually:
 
